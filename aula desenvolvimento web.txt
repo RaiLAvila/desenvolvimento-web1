@@ -1,4 +1,4 @@
-Aula Desenvolvimento Web
+Aula Desenvolvimento Web 26/02/2024 Primeiro Período.
 
 Tarefa de Exploração:
 Paginas web de referência(Python, Git, Vscode, Sqlitebrowsere e Google.)
