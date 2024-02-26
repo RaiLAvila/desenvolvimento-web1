@@ -1,0 +1,38 @@
+Aula Desenvolvimento Web
+
+Tarefa de Exploração:
+Paginas web de referência(Python, Git, Vscode, Sqlitebrowsere e Google.)
+
+Python:https://www.python.org
+Git:https://git-scm.com/
+Vscode:https://code.visualstudio.com/
+Sqlitebrowser:https://sqlitebrowser.org/
+Google:https://www.google.pt
+
+O que é Desenvolvimento Web?
+Como as ferramentas escolhidas se relacionam com o curso?
+
+Desenvolvimento Web, se trata do desenvolvimento de sites. Os 
+profissionais que atuam na área, vizando conseguir um bom desempenho,
+utilizam algumas ferramentas para realizar seu trabalho, como
+exemplo: o python, uma linguagem de programação amplamente usada em 
+aplicações da web. Os desenvolvedores escolhem usar o python, pois
+ele é fácil de aprender e pode ser executado em muitas plataformas 
+diferentes.
+
+Continuando, temos o git, uma ferramenta monitora o histórico de
+alteraçoes à medida que as pessoas e equipes colaboram em projetos
+em conjunto. Como os desenvolvedores fazem alterações no projeto,
+qualquer versão anterior do projeto pode ser recuperada a qualquer
+momento.
+
+Além disso, vscode é um editor de código-fonte autônomo com toneladas
+de extensões dar suporte a praticamente qualquer linguagem de
+programação
+
+Não menos importante, O sqlite é o banco de dados interno e oficial da
+Android, com ele é possível modelar uma estrutura de tabelas 
+relacionadas entre si para representar os dados do mundo real.
+
+Por ultimo, temos o google,  um mecanismo de pesquisa totalmente 
+automatizado, que é extremante útil para o desenvolvimento web.
