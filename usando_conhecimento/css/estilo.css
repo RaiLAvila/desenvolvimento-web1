@@ -1,0 +1,31 @@
+header {
+    background-color: hotpink;
+    border-bottom: 10px dotted purple;
+  }
+  
+  h1 {
+    color: white;
+  }
+  
+  .italic {
+    font-style: italic;
+  }
+  
+  .contato {
+    background-color: #eeeeee;
+    border: 5px solid purple;
+    padding: 10px; 
+  }
+  
+  a {
+    color: black; 
+    text-decoration: none; 
+    transition: color 0.3s ease; 
+  }
+  
+  a:hover {
+    color: green;
+  }
+  p {
+    color: rgb(202, 137, 51);
+  }
